@@ -10,7 +10,7 @@
 **[ADD RILP BOT](https://discord.com/oauth2/authorize?client_id=718501137484873748&permissions=1036348662&scope=bot)**
 
 [Website](https://rilp-bot4.webnode.com/) \
-[Documents](https://rilp-bot4.webnode.com/docs/) \
+[Documents](https://rilp-bot4.webnode.com/docs/) 
 
 ___
 **Invite to the support server :**

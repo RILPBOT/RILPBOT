@@ -25,3 +25,7 @@ ___
 `r!help <command>`
 
 
+# SUPPORT US 
+UPI ID (FOR INDIANS) : ritam110204.fam@idfcbank
+UPI QR CODE (FOR INDIANS) : ![UPI QR CODE](https://media.discordapp.net/attachments/677173250178023426/772834253787758602/IMG_20201102_201714.jpg?width=497&height=499)
+PAYPAL : **COMING SOON**

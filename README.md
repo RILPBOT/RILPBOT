@@ -1,7 +1,9 @@
 # RILPBOT
 
+[![Support](https://discordapp.com/api/guilds/147698382092238848/widget.png?style=shield)](https://discord.gg/q6yefKD) 
+[![Patreon](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/rilpdevelopment) 
+
 ### About **RILP BOT**
-[![Discord Server](https://discordapp.com/api/guilds/655748043076796426/embed.png)](https://discord.gg/q6yefKD)
 
 **RILP BOT** is designed with the aim to maximize features with a simple and easy to use interface. **RILP BOT** provides moderation, logging, giveaways, an invite manager, and most importantly, a nice custom welcome message for your new members.
 

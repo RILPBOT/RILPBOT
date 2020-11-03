@@ -20,11 +20,11 @@ ___
 
 ## Features
 1. Prefix
-`r!(customised)`
+`^(customised)`
 2. Help
-`r!help`
+`^help`
 3. To know more about a command
-`r!help <command>`
+`^help <command>`
 
 
 # SUPPORT US 

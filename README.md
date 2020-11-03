@@ -1,6 +1,6 @@
 # RILPBOT
 
-[![Support](https://discordapp.com/api/guilds/147698382092238848/widget.png?style=shield)](https://discord.gg/q6yefKD) 
+[![Support](https://discordapp.com/api/guilds/741999360539099199/widget.png?style=shield)](https://discord.gg/q6yefKD) 
 [![Patreon](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/rilpdevelopment) 
 
 ### About **RILP BOT**

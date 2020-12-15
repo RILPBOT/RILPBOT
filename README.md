@@ -3,6 +3,7 @@
 [![Support](https://discordapp.com/api/guilds/741999360539099199/widget.png?style=shield)](https://discord.gg/q6yefKD) 
 [![Discord Bots](https://top.gg/api/widget/servers/718501137484873748.svg)](https://top.gg/bot/718501137484873748)
 [![Patreon](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/rilpdevelopment) 
+[![GitHub license](https://img.shields.io/github/license/jagrosh/Vortex.svg)](https://github.com/jagrosh/Vortex/blob/master/LICENSE)
 [![PrivacyPolicy](https://img.shields.io/badge/Privacy%20Policy--lightgrey.svg?style=social)](https://rilp-bot4.webnode.com/privacy-policy/)
 [![CodeFactor](https://www.codefactor.io/repository/github/typhoon11/rilp-development/badge?s=de95038bf04318705ad6b9f8d2f4c736b52965af)](https://www.codefactor.io/repository/github/typhoon11/rilp-development)
 

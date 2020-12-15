@@ -18,6 +18,9 @@ ___
 **Invite to the support server :**
 [https://discord.gg/q6yefKD](https://discord.gg/q6yefKD)
 
+## Vote Us
+[![RILP BOT](https://top.gg/api/widget/718501137484873748.svg)](https://top.gg/bot/718501137484873748)
+
 ## Features
 1. Prefix
 `r!(customised)`
@@ -29,5 +32,4 @@ ___
 
 # SUPPORT US 
 UPI ID (FOR INDIANS) : ritam110204.fam@idfcbank \
-UPI QR CODE (FOR INDIANS) : ![image](https://media.discordapp.net/attachments/677173250178023426/772834253787758602/IMG_20201102_201714.jpg?width=497&height=499) \
 PAYPAL : **COMING SOON**

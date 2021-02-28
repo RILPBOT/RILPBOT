@@ -36,4 +36,4 @@ ___
 
 # SUPPORT US 
 UPI ID (FOR INDIANS) : ritam110204.fam@idfcbank \
-PAYPAL : **COMING SOON**
+PAYPAL : https://paypal.me/ritam110204

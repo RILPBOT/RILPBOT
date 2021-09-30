@@ -5,7 +5,6 @@
 [![Patreon](https://img.shields.io/badge/Donate-Patreon-orange.svg)](https://www.patreon.com/rilpdevelopment) 
 [![GitHub license](https://img.shields.io/github/license/RILP-DEVELOPMENT/RILPBOT.svg)](https://github.com/RILP-DEVELOPMENT/RILPBOT/blob/main/LICENSE)
 [![PrivacyPolicy](https://img.shields.io/badge/Privacy%20Policy--lightgrey.svg?style=social)](https://rilp-bot4.webnode.com/privacy-policy/)
-[![CodeFactor](https://www.codefactor.io/repository/github/typhoon11/rilp-development/badge?s=de95038bf04318705ad6b9f8d2f4c736b52965af)](https://www.codefactor.io/repository/github/typhoon11/rilp-development)
 
 ### About **RILP BOT**
 
@@ -32,8 +31,6 @@ ___
 `r!help`
 3. To know more about a command
 `r!help <command>`
-
-<iframe src="https://rilp-bot.tk" title="RILP BOT"></iframe>
 
 # SUPPORT US 
 UPI ID (FOR INDIANS) : ritam110204.fam@idfcbank \

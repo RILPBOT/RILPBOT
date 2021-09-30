@@ -15,8 +15,8 @@
 
 **[ADD RILP BOT](https://discord.com/oauth2/authorize?client_id=718501137484873748&permissions=1036348662&scope=bot)**
 
-[Website](https://rilp-bot4.webnode.com/) \
-[Documents](https://rilp-bot4.webnode.com/docs/) 
+[Website](https://rilp-bot.tk) \
+[Documents](https://rilp-bot.tk/docs) 
 
 ___
 **Invite to the support server :**
@@ -33,6 +33,7 @@ ___
 3. To know more about a command
 `r!help <command>`
 
+<iframe src="https://rilp-bot.tk" title="RILP BOT"></iframe>
 
 # SUPPORT US 
 UPI ID (FOR INDIANS) : ritam110204.fam@idfcbank \

@@ -7,7 +7,6 @@
 [![PrivacyPolicy](https://img.shields.io/badge/Privacy%20Policy--lightgrey.svg?style=social)](https://rilp-bot.tk/privacy)
 
 ### About **RILP BOT**
-[![Discord Server](https://discordapp.com/api/guilds/741999360539099199/embed.png)](https://discord.gg/q6yefKD)
 
 **RILP BOT** is designed with the aim to maximize features with a simple and easy-to-use interface. **RILP BOT** provides moderation, logging, advance giveaways, an invite manager, and most importantly, a nice custom welcome message for your new members.
 

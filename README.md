@@ -38,4 +38,4 @@ UPI ID (FOR INDIANS) : ritam110204.fam@idfcbank \
 PAYPAL : https://paypal.me/ritam110204
 
 # QR CODE FOR UPI
-![UPI](https://i.imgur.com/ytAHqLB.png){:height="150px" width="150px"}
+![UPI](https://i.imgur.com/ytAHqLB.png)

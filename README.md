@@ -14,11 +14,11 @@ If you need any additional help with RILP BOT, ask in our [Discord server!](http
 
 ### Useful Links
 
-|                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------ |
-| [Dashboard](https://rilp-bot.tech)                                                                                                   |
-| [Add RILP BOT to your server](https://rilp-bot.tech/invite)                                                                          |
-| [Discord Server](https://rilp-bot.tech/support)                                                                                      |
-| [<mark style="color:yellow;">Subscribe to RILP BOT Premium</mark>](https://rilp-bot.tech/premium)<mark style="color:yellow;"></mark> |
-| [YouTube Tutorials](https://youtube.com/playlist?list=PLcVFK36D5C4UsVEzHTRRFZkftdJ1c\_R9O)                                           |
+|                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------- |
+| :globe\_with\_meridians: [Dashboard](https://rilp-bot.tech)                                                                             |
+| ➕ [Add RILP BOT to your server](https://rilp-bot.tech/invite)                                                                           |
+| 🤝 [Discord Server](https://rilp-bot.tech/support)                                                                                      |
+| 👑 [<mark style="color:yellow;">Subscribe to RILP BOT Premium</mark>](https://rilp-bot.tech/premium)<mark style="color:yellow;"></mark> |
+| 🔗 [YouTube Tutorials](https://youtube.com/playlist?list=PLcVFK36D5C4UsVEzHTRRFZkftdJ1c\_R9O)                                           |
 

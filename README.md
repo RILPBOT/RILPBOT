@@ -10,7 +10,7 @@ RILP BOT is an all in one bot that helps you with invite tracking, giveaways, mo
 
 This documentation provides information on each module/command, including the description, usage, and examples.
 
-If you need any additional help with RILP BOT, ask in our [Discord server!](https://rilp-bot.tech/support)
+If you need any additional help with RILP BOT, join our [Discord server!](https://rilp-bot.tech/support)
 
 ### Useful Links
 

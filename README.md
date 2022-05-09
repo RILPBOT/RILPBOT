@@ -32,9 +32,5 @@ ___
 ## Vote Us
 [![RILP BOT](https://top.gg/api/widget/718501137484873748.svg)](https://top.gg/bot/718501137484873748)
 
-# SUPPORT US 
-UPI ID (FOR INDIANS) : ritam110204.fam@idfcbank \
-PAYPAL : https://paypal.me/ritam110204
-
-# QR CODE FOR UPI
-![UPI](https://i.imgur.com/ytAHqLB.png)
+## Buy Premium
+https://rilp-bot.tech/premium

@@ -12,7 +12,8 @@
 
 ## 💻 Website
 
-* [Dashboard](website/dashboard.md)
+* [Dashboard](website/dashboard/README.md)
+  * [Page 4](website/dashboard/page-4.md)
 * [Status Page](website/status-page.md)
 
 ## Legal

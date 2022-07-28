@@ -1,4 +1,9 @@
-# Home
+---
+cover: .gitbook/assets/formbanner.jpg
+coverY: 0
+---
+
+# 📚 Home
 
 ## Welcome to the RILP BOT Wiki !
 

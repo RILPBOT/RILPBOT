@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [📚 Home](README.md)
 * [😁 Getting Started](<README (1).md>)
   * [Basics](getting-started/basics.md)
   * [Hints and Legends](getting-started/hints-and-legends.md)

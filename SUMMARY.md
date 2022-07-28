@@ -19,8 +19,13 @@
 
 ## Legal
 
-* [Page 2](legal/page-2.md)
+* [Privacy Policy](https://rilp-bot.tech/privacy)
+* [Terms Of Service](https://rilp-bot.tech/tos)
+* [Refund Policy](https://rilp-bot.tech/refund)
 
 ## Important Links
 
-* [Page 3](important-links/page-3.md)
+* [Invite RILP BOT](https://rilp-bot.tech/invite)
+* [Support Server](https://rilp-bot.tech/support)
+* [Vote](https://top.gg/bot/718501137484873748/vote)
+* [Premium](https://rilp-bot.tech/premium)

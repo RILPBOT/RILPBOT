@@ -21,7 +21,18 @@
 ## 💻 Website
 
 * [Dashboard](website/dashboard/README.md)
-  * [Page 4](website/dashboard/page-4.md)
+  * [Server Settings](website/dashboard/server-settings.md)
+  * [Reaction Roles](website/dashboard/reaction-roles.md)
+  * [Auto-Moderation](website/dashboard/auto-moderation.md)
+  * [Auto Role](website/dashboard/auto-role.md)
+  * [Verification Captcha](website/dashboard/verification-captcha.md)
+  * [Announcements](website/dashboard/announcements.md)
+  * [Action Logs](website/dashboard/action-logs.md)
+  * [Starboard](website/dashboard/starboard.md)
+  * [Message Embedder](website/dashboard/message-embedder.md)
+  * [Custom Commands](website/dashboard/custom-commands.md)
+  * [Giveaways](website/dashboard/giveaways.md)
+  * [Invite Tracker](website/dashboard/invite-tracker.md)
 * [Status Page](website/status-page.md)
 
 ## Legal

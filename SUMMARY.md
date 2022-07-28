@@ -9,7 +9,13 @@
 
 ## 🛠 Slash Commands
 
-* [Page 1](slash-commands/page-1.md)
+* [Administration](slash-commands/administration.md)
+* [Fun](slash-commands/fun.md)
+* [Giveaways](slash-commands/giveaways.md)
+* [Info Commands](slash-commands/info-commands.md)
+* [Invite Management](slash-commands/invite-management.md)
+* [Moderation](slash-commands/moderation.md)
+* [Utility](slash-commands/utility.md)
 
 ## 💻 Website
 

@@ -2,6 +2,7 @@
 
 * [Getting Started](README.md)
   * [Basics](getting-started/basics.md)
+  * [Hints and Legends](getting-started/hints-and-legends.md)
   * [Permissions](getting-started/permissions.md)
   * [FAQs](getting-started/faqs.md)
 * [🌟 Premium](premium.md)

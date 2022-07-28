@@ -22,7 +22,7 @@ This type of hints will provide more basic info on the topic
 {% endhint %}
 
 {% hint style="warning" %}
-This type of hints will tell you more about commands those are/having premium features
+This type of hints will tell you more about commands with premium features
 {% endhint %}
 
 {% hint style="success" %}

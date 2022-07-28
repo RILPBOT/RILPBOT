@@ -20,3 +20,17 @@ The shard in which your guild is present will start glowing up \
 (in this case Shard 0 )
 
 ![Finding Guild on the status page](../.gitbook/assets/1.gif)
+
+{% hint style="info" %}
+Note that If the Shard Number is in <mark style="color:green;">Green</mark> color, that means all the servers in that shard are operational with fairly low pings.\
+\
+If the Shard Number is in <mark style="color:yellow;">Yellow</mark> color, that means some of the servers in that shard are facing ping issues.\
+\
+If the Shard Number is in <mark style="color:red;">Red</mark> color, that means the bot is down in most/all of the servers in that shard
+{% endhint %}
+
+{% hint style="success" %}
+Hovering on the shard numbers will give more info about them.\
+\
+The Status Page reloads after every 30seconds automatically.
+{% endhint %}

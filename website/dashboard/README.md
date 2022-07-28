@@ -18,3 +18,7 @@ Dashboard Link
 ### How do I login and access my servers ?
 
 ![](../../.gitbook/assets/dash.gif)
+
+{% hint style="success" %}
+Dashboard can only be accessed by users having Administrator or Manage Server Permissions
+{% endhint %}

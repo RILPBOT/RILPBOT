@@ -29,3 +29,4 @@
 * [Support Server](https://rilp-bot.tech/support)
 * [Vote](https://top.gg/bot/718501137484873748/vote)
 * [Premium](https://rilp-bot.tech/premium)
+* [You Tube Tutorials](https://www.youtube.com/playlist?list=PLcVFK36D5C4UsVEzHTRRFZkftdJ1c\_R9O)

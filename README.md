@@ -1,5 +1,7 @@
 ---
 description: RILP BOT Wiki
+cover: .gitbook/assets/formbanner.jpg
+coverY: 0
 ---
 
 # 😁 Getting Started

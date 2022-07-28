@@ -4,11 +4,12 @@ description: RILP BOT Wiki
 
 # Docs
 
-## Welcome to the RILP BOT Wiki!
+## Welcome to the RILP BOT Wiki !
 
-RILP BOT is an all in one bot that helps you with invite tracking, giveaways, moderation, automoderation, and many more along with a nice UI friendly Dashboard.
+RILP BOT is an all in one bot that helps you with invite tracking, giveaways, moderation, \
+auto-moderation, and many more utility commands along with a nice User friendly Dashboard.
 
-This documentation provides information on each module/command, including the description, usage, and examples.
+This documentation provides information on each module/command, their usage, and examples.
 
 If you need any additional help with RILP BOT, join our [Discord server!](https://rilp-bot.tech/support)
 

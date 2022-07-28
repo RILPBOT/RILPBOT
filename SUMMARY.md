@@ -9,11 +9,11 @@
 
 ## 🛠 Slash Commands
 
-* [Administration](slash-commands/administration.md)
 * [Fun](slash-commands/fun.md)
 * [Giveaways](slash-commands/giveaways.md)
 * [Info Commands](slash-commands/info-commands.md)
 * [Invite Management](slash-commands/invite-management.md)
+* [Manager](slash-commands/manager.md)
 * [Moderation](slash-commands/moderation.md)
 * [Utility](slash-commands/utility.md)
 
@@ -29,10 +29,14 @@
 * [Terms Of Service](https://rilp-bot.tech/tos)
 * [Refund Policy](https://rilp-bot.tech/refund)
 
+## Contact Us
+
+* [Support Server](https://rilp-bot.tech/support)
+* [E-Mail](mailto:support@rilp-bot.tech?subject=Mail%20regarding%20RILP%20BOT)
+
 ## Important Links
 
 * [Invite RILP BOT](https://rilp-bot.tech/invite)
-* [Support Server](https://rilp-bot.tech/support)
 * [Vote](https://top.gg/bot/718501137484873748/vote)
 * [Premium](https://rilp-bot.tech/premium)
 * [You Tube Tutorials](https://www.youtube.com/playlist?list=PLcVFK36D5C4UsVEzHTRRFZkftdJ1c\_R9O)

@@ -8,7 +8,8 @@ description: This page will give you more info about Bot's status Page
 
 ## Where do I find the status page ?
 
-Status Page can be accessed from the [Dashboard](https://rilp-bot.tech) > clicking "Status" or just by directly [Clicking Here](https://rilp-bot.tech/status).
+Status Page can be accessed from the [Dashboard](https://rilp-bot.tech) by clicking on "Status" \
+or just by directly [Clicking Here](https://rilp-bot.tech/status).
 
 {% embed url="https://rilp-bot.tech/status" %}
 

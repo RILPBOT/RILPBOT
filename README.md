@@ -2,7 +2,7 @@
 description: RILP BOT Wiki
 ---
 
-# Docs
+# Getting Started
 
 ## Welcome to the RILP BOT Wiki !
 
@@ -23,3 +23,6 @@ If you need any additional help with RILP BOT, join our [Discord server!](https:
 | 👑 [<mark style="color:yellow;">Subscribe to RILP BOT Premium</mark>](https://rilp-bot.tech/premium)<mark style="color:yellow;"></mark> |
 | 🔗 [YouTube Tutorials](https://youtube.com/playlist?list=PLcVFK36D5C4UsVEzHTRRFZkftdJ1c\_R9O)                                           |
 
+### Getting Started
+
+Firstly make sure you have invited RILP BOT in your server, if you haven't already you can invite the bot by [clicking here](https://rilp-bot.tech/invite).

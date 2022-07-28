@@ -2,7 +2,7 @@
 description: RILP BOT Wiki
 ---
 
-# Getting Started
+# 😁 Getting Started
 
 ## Welcome to the RILP BOT Wiki !
 

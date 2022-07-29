@@ -17,7 +17,7 @@ Though if you still wish to give perms manually you can read the guide ahead....
 | `Manage Roles`     | For `adding/deleting` roles, mod commands and `auto role`                               |   |
 | `Manage Channels`  | For features like `slow` `mode` and `lock/unlock` channels                              |   |
 | `Ban Members`      | For `ban` command                                                                       |   |
-| `Kick Members`     | For `kick` command                                                                      |   |
+| `Kick Members`     | For `kick` command and auto moderation                                                  |   |
 | `Manage Nicknames` | For  `nickname` command, adding AFK in nicks and for `De-hoist` in Auto-moderation      |   |
 | `Manage Emojis`    | For adding emojis via `steal` command                                                   |   |
 | `Moderate Members` | <p>Need for <code>mute</code> command and</p><p>auto moderation</p>                     |   |

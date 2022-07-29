@@ -31,3 +31,7 @@ Enabling it would allow one to copy Server IDs, User IDs, Channel IDs etc.
 ### Copying User IDs
 
 ![Copying User IDs](<../.gitbook/assets/user id.gif>)
+
+### Giving Permissions
+
+![](../.gitbook/assets/perms.gif)

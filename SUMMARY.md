@@ -35,6 +35,12 @@
   * [Invite Tracker](website/dashboard/invite-tracker.md)
 * [Status Page](website/status-page.md)
 
+***
+
+* [🤝 Partnerships](partnerships/README.md)
+  * [Quotient Bot](partnerships/quotient-bot.md)
+  * [How do I become a partner ?](partnerships/how-do-i-become-a-partner.md)
+
 ## Legal
 
 * [Privacy Policy](https://rilp-bot.tech/privacy)

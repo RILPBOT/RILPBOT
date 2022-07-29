@@ -18,8 +18,8 @@ Along with the list below you even get a hoisted role in our [Support Server](ht
 
 ### What payment methods are available ?
 
-Currently, we support only credit cards, debit cards directly through dashboard.\
-For international payments contact us in [Support Server](https://rilp-bot.tech/support).
+Currently, all the prices are in Indian Rupees (INR) and we support only credit cards and debit cards directly through dashboard.\
+For other currencies or other payment methods contact us in the [Support Server](https://rilp-bot.tech/support).
 
 {% embed url="https://rilp-bot.tech/premium" %}
 Click here to directly get on the premium page

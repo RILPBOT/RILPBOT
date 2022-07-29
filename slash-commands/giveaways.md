@@ -6,7 +6,7 @@ description: This page will help you with all the giveaway slash commands
 
 ### Giveaway Commands and Arguments
 
-| Command Name                                                       | Command Usage                                                                                                                      |   |
+| Command Name                                                       | Command Description                                                                                                                |   |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | - |
 | `/giveaway create <prize> <duration> <winners> <#channel> [image]` | <p>Creates a giveaway with given arguments.<br>The image argument embeds the image provided in the giveaway</p>                    |   |
 | `/giveaway delete <message_id>`                                    | Deletes the giveaway with the provided message id. Deleting giveaway does not draw any winners                                     |   |

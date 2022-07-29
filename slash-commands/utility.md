@@ -16,31 +16,32 @@ AFK command is used to show AFK status by adding AFK in nick and a reason (optio
 | `/afk clear [@user]`     | Clears your or the mentioned user's AFK status.                                     |   |
 | `/afk list`              | Shows a list of all the users having AFK status                                     |   |
 
-### Polls and Reminder Commands
-
-{% tabs %}
-{% tab title="Poll Commands" %}
-| Command Name                                                                                                                  | Command Description                                                       |   |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | - |
-| <p><code>/poll create &#x3C;question> &#x3C;option 1> &#x3C;option 2></code> <br><code>[option 3]..... [option 9]</code> </p> | Creates a poll with a question and minimum of 2 options (max options : 9) |   |
-| `/poll end <message_id>`                                                                                                      | Ends the poll with the given message id.                                  |   |
-| `/poll show <message_id>`                                                                                                     | Returns the result of the given poll                                      |   |
-{% endtab %}
-
-{% tab title="Reminder Commands" %}
-| Command Name | Command Description |   |
-| ------------ | ------------------- | - |
-|              |                     |   |
-|              |                     |   |
-|              |                     |   |
-{% endtab %}
-{% endtabs %}
-
 {% hint style="success" %}
 Bot will not be able to add `AFK` in the nicknames of users having a role above the bot.\
 \
 `/afk clear` and `/afk list` are mod only commands meaning only users with mod role, server manager or administrator perms will be able to use the command
 {% endhint %}
+
+### Polls and Reminder Commands
+
+{% tabs %}
+{% tab title="Poll Commands" %}
+| Command Name                                                                                                                 | Command Description                                                       |   |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | - |
+| <p><code>/poll create &#x3C;question> &#x3C;option 1> &#x3C;option 2></code> <br><code>[option 3].....[option 9]</code> </p> | Creates a poll with a question and minimum of 2 options (max options : 9) |   |
+| `/poll end <message_id>`                                                                                                     | Ends the poll with the given message id.                                  |   |
+| `/poll show <message_id>`                                                                                                    | Returns the result of the given poll                                      |   |
+{% endtab %}
+
+{% tab title="Reminder Commands" %}
+| Command Name                         | Command Description                                                   |   |
+| ------------------------------------ | --------------------------------------------------------------------- | - |
+| `/reminder add <duration> [message]` | Creates a reminder with the given duration and message (if given any) |   |
+| `/reminder list`                     | Returns all the reminders in the server                               |   |
+| `/reminder cancel <message_id>`      | Cancels the reminder with the given ID                                |   |
+| `/reminder cancel all`               | Cancels all the reminders of that server.                             |   |
+{% endtab %}
+{% endtabs %}
 
 ### Other Commands and Arguments
 

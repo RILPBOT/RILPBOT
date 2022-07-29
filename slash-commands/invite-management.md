@@ -6,12 +6,18 @@ description: This page will help you with the Invite Management through slash co
 
 ### General Invite Commands
 
-| Command Name                | Command Description                                                                   |   |
-| --------------------------- | ------------------------------------------------------------------------------------- | - |
-| `/invitecodes [@user]`      | Returns the list of invite codes you or the mentioned user have in the server.        |   |
-| `/invited [@user]`          | Returns your or mentioned user's list of invited members                              |   |
-| `/inviteinfo <invite_code>` | Returns information about the given invite code                                       |   |
-| `/invites [@user]`          | Returns the total number and different types of invites you or the mentioned user has |   |
+| Command Name                                     | Command Description                                                                                                                         |   |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| `/invitecodes [@user]`                           | Returns the list of invite codes you or the mentioned user have in the server.                                                              |   |
+| `/invited [@user]`                               | Returns your or mentioned user's list of invited members                                                                                    |   |
+| `/inviteinfo <invite_code>`                      | Returns information about the given invite code                                                                                             |   |
+| `/invites [@user]`                               | Returns the total number and different types of invites you or the mentioned user has                                                       |   |
+| `/leaderboard [page]`                            | <p>Returns the invite leaderboard of that server.<br>If page number is provided it will only return that particular page number</p>         |   |
+| `/leaderboard [user-id \| user-tag \| username]` | <p>Returns the invite leaderboards with <br><code>user-id | user-tag | username</code> instead of the default <code>user-mention</code></p> |   |
+
+{% hint style="info" %}
+Both of the /leaderboard options can be used together to find the desired invite list more precisely.
+{% endhint %}
 
 ### Invite Commands used to Configure Invites
 

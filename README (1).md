@@ -8,8 +8,8 @@ coverY: 0
 
 ### Getting Started
 
-Firstly make sure you have invited RILP BOT in your server, if you haven't already you can invite the bot by [clicking here](https://rilp-bot.tech/invite).\
-Now that you have invited the bot, lets get started setting up bot in your server :grin:\
+Firstly make sure you have invited RILP BOT in your server, if not you can invite the bot by [clicking here](https://rilp-bot.tech/invite).\
+Now that you have invited the bot, let's start setting up the bot in your server :grin:\
 \
 When you invite the bot it will ask for some permissions which are required by the bot in order to work seamlessly, make sure to grant those permissions !\
 If you want to know more about why are those specific perms required head over to [PERMISSIONS](getting-started/permissions.md).\

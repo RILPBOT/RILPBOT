@@ -11,6 +11,19 @@ Giving Bot administrator will directly grant it all the perms required in genera
 Though if you still wish to give perms manually you can read the guide ahead....
 {% endhint %}
 
+| Permissions        | Features using it                                                                       |   |
+| ------------------ | --------------------------------------------------------------------------------------- | - |
+| `Manage Server`    | For fetching invites from Invites Tab in Server Settings                                |   |
+| `Manage Roles`     | For `adding/deleting` roles, mod commands and `auto role`                               |   |
+| `Manage Channels`  | For features like `slow` `mode` and `lock/unlock` channels                              |   |
+| `Ban Members`      | For `ban` command                                                                       |   |
+| `Kick Members`     | For `kick` command                                                                      |   |
+| `Manage Nicknames` | For  `nickname` command, adding AFK in nicks and for `De-hoist` in Auto-moderation      |   |
+| `Manage Emojis`    | For adding emojis via `steal` command                                                   |   |
+| `Moderate Members` | <p>Need for <code>mute</code> command and</p><p>auto moderation</p>                     |   |
+| `Embed Links`      | This is needed for embedding links in different commands like `Leaderboard invites` etc |   |
+| `Manage Webhook`   | Bot uses webhook for [Action Logs](../website/dashboard/action-logs.md)                 |   |
+
 {% hint style="danger" %}
 If you are setting up perms manually make sure to provide the bot perms in all those channels where everyone role doesn't have it.\
 Like for example bot needs perms to see all those channels where you want invites to get counted.

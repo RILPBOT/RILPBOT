@@ -22,6 +22,7 @@ description: >-
 | `Manage Roles`     | For `adding/deleting` roles, mod commands and `auto role`                               |   |
 | `Manage Webhook`   | Bot uses webhook for [Action Logs](../website/dashboard/action-logs.md)                 |   |
 | `Moderate Members` | <p>Need for <code>mute</code> command and</p><p>auto moderation</p>                     |   |
+| `View Channels`    | Required for tracking invites                                                           |   |
 
 {% hint style="success" %}
 Giving Bot administrator will directly grant it all the perms required in general as well as in a particular channel.

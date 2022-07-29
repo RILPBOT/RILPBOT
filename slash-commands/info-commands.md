@@ -10,7 +10,7 @@ description: This page will help you with different info commands available.
 | -------------------- | --------------------------------------------------- | - |
 | `/avatar [user]`     | Returns your or the specified user's avatar         |   |
 | `/botinfo`           | Returns information about the bot                   |   |
-| `/emojiinfo <emoji`> | Returns information about the given emoji           |   |
+| `/emojiinfo <emoji>` | Returns information about the given emoji           |   |
 | `/emojis`            | Returns a list of all the emojis in the server      |   |
 | `/membercount`       | Returns the total number of members in the server   |   |
 | `/roleinfo <@role>`  | Returns information about the given role            |   |

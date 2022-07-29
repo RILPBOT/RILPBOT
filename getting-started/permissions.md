@@ -6,10 +6,7 @@ description: >-
 
 # Permissions
 
-{% hint style="success" %}
-Giving Bot administrator will directly grant it all the perms required in general as well as in a particular channel.\
-Though if you still wish to give perms manually you can read the guide ahead....
-{% endhint %}
+[Click here](basics.md#giving-permissions) to check how to give permissions to a bot.
 
 | Permissions        | Features using it                                                                       |   |
 | ------------------ | --------------------------------------------------------------------------------------- | - |
@@ -25,6 +22,10 @@ Though if you still wish to give perms manually you can read the guide ahead....
 | `Manage Roles`     | For `adding/deleting` roles, mod commands and `auto role`                               |   |
 | `Manage Webhook`   | Bot uses webhook for [Action Logs](../website/dashboard/action-logs.md)                 |   |
 | `Moderate Members` | <p>Need for <code>mute</code> command and</p><p>auto moderation</p>                     |   |
+
+{% hint style="success" %}
+Giving Bot administrator will directly grant it all the perms required in general as well as in a particular channel.
+{% endhint %}
 
 {% hint style="danger" %}
 If you are setting up perms manually make sure to provide the bot perms in all those channels where everyone role doesn't have it.\

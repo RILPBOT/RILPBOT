@@ -17,7 +17,9 @@ AFK command is used to show AFK status by adding AFK in nick and a reason (optio
 | `/afk list`              | Shows a list of all the users having AFK status                                     |   |
 
 {% hint style="success" %}
-Bot will not be able to add `AFK` in the nicknames of users having a role above the bot.
+Bot will not be able to add `AFK` in the nicknames of users having a role above the bot.\
+\
+`/afk clear` and `/afk list` are mod only commands meaning only users with mod role, server manager or administrator perms will be able to use the command
 {% endhint %}
 
 ### Polls and Reminder Commands
@@ -54,4 +56,4 @@ Bot will not be able to add `AFK` in the nicknames of users having a role above 
 | `/variables`                               | Returns a link for the variables page used in invite announcements.                                                            |   |
 | `/vote`                                    | Returns the [Top.gg ](https://top.gg/bot/718501137484873748/vote)link for voting the bot                                       |   |
 | `/weather <place> [degree]`                | Returns weather of the specified place in fahrenheit or celsius                                                                |   |
-| `/verify`                                  | <p>Toggles the verification process<br>(Module should be enabled in order to use this)</p>                                     |   |
+| `/verify`                                  | Toggles the verification module                                                                                                |   |

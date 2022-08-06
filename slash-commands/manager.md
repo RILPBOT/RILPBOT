@@ -25,3 +25,21 @@ description: This page will help you with all the Management Commands
 | `ID`                  | Returns the list of specified role in the order of their [Discord ID](https://rilp-bot.gitbook.io/rilp-bot/wEiqC0iTql2tIUve8C8N/getting-started/basics#copying-user-ids) |   |
 | `Account Create Date` | Returns the list of specified role in the order of User's Account Creation Date                                                                                          |   |
 | `Server Join Date`    | Returns the list of specified role in the oder of User's Server Join Date                                                                                                |   |
+
+### Purge Command and Arguments
+
+| Command Name                                    | Command Description                                                     |   |
+| ----------------------------------------------- | ----------------------------------------------------------------------- | - |
+| `/purge messages <count> [channel]`             | Deletes the messages with the specified count and in specified channel. |   |
+| `/purge bots <count> [channel]`                 | Deletes the messages sent by bot.                                       |   |
+| `/purge user <user> <count> [channel]`          | Deletes the messages sent by the user.                                  |   |
+| `purge embeds <count> [channel]`                | Deletes the messages containing embeds.                                 |   |
+| `/purge humans <count> [channel]`               | Deletes the messages sent by humans.                                    |   |
+| `/purge mentions <count> [channel]`             | Deletes the messages containing mentions (limit 100)                    |   |
+| `/purge match <content> <count> [channel]`      | Deletes the messages having the provided content.                       |   |
+| `/purge startswith <content> <count> [channel]` | Deletes the messages which starts with the provided content             |   |
+| `/purge endswith <content> <count> [channel]`   | Deletes the messages which ends with the provided content               |   |
+| `/purge emojis <count> [channel]`               | Deletes the messages containing emojis                                  |   |
+| `/purge links <count> [channel]`                | Deletes the messages containing links                                   |   |
+| `/purge attachments <count> [channel]`          | Deletes the messages containing attachments                             |   |
+

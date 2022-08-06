@@ -11,6 +11,8 @@ description: This page will help you with all the Management Commands
 | `/addrole <name> [color] [icon] [hoist : True \| False]` | <p>Creates a role with selected options.<br>Icon option is for server with level 2 boost or above while hoist means if the role should be displayed separately from other roles.</p> |   |
 | `/deleterole <role>`                                     | Deletes the selected role.                                                                                                                                                           |   |
 | `/listroles <limit>`                                     | Returns a list of all/specified number of roles present in the server.                                                                                                               |   |
+| `/role give <user> <role>`                               | Gives the specified role to mentioned user                                                                                                                                           |   |
+| `/role remove <user> <role>`                             | Removes the specified role to mentioned user                                                                                                                                         |   |
 | `/nickname <user> <nickname>`                            | Changes the nickname of the specified user.                                                                                                                                          |   |
 
 ### Dump Command and Arguments
@@ -42,4 +44,17 @@ description: This page will help you with all the Management Commands
 | `/purge emojis <count> [channel]`               | Deletes the messages containing emojis                                  |   |
 | `/purge links <count> [channel]`                | Deletes the messages containing links                                   |   |
 | `/purge attachments <count> [channel]`          | Deletes the messages containing attachments                             |   |
+
+{% hint style="info" %}
+Messages older than 14days cannot be deleted&#x20;
+{% endhint %}
+
+### Role Manager Commands and Arguments
+
+| Command Name                            | Command Description |   |
+| --------------------------------------- | ------------------- | - |
+| `/role multiple <type> <action> <role>` |                     |   |
+| ``                                      |                     |   |
+
+*
 

@@ -22,6 +22,7 @@ description: This page will guide you through all the Fun commands present in th
 | `/pat [@user]`         | Pats the mentioned user                                           |   |
 | `/rps duel <@user>`    | Challenges the mentioned user for a game of Rock Paper Scissors   |   |
 | `/rps single <choice>` | Starts a game of Rock Paper Scissors with the bot                 |   |
+| `/rate <user>`         | Rates the mentioned user                                          |   |
 | `/slap [@user]`        | Slaps the mentioned user                                          |   |
 | `/triggered [@user]`   | Creates a triggered overlay for yourself or mentioned user        |   |
 | `/wasted [@user]`      | Creates a wasted overlay for yourself or mentioned user           |   |

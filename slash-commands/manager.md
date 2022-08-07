@@ -51,9 +51,15 @@ Messages older than 14days cannot be deleted&#x20;
 
 ### Role Manager Commands and Arguments
 
-| Command Name                            | Command Description |   |
-| --------------------------------------- | ------------------- | - |
-| `/role multiple <type> <action> <role>` |                     |   |
+| Command Name                            | Command Description                                          |   |
+| --------------------------------------- | ------------------------------------------------------------ | - |
+| `/role multiple <type> <action> <role>` | Gives or removes the role according to the action specified. |   |
+
+Arguments for `/role multiple` command
+
+| `Type : all \| bots \| humans` | Takes action on bots, humans or everyone according to it. |   |
+| ------------------------------ | --------------------------------------------------------- | - |
+| `Action : give \| remove`      | Gives or removes the role from specified `Type`           |   |
 
 
 

@@ -15,7 +15,7 @@ or just by directly [Clicking Here](https://rilp-bot.tech/status).
 
 ## How do I find my guild on status page ?
 
-On the status page enter you [Guild Id](../getting-started/basics.md#copying-server-ids) in "LOOK UP YOUR SERVER" menu and then click on "Check"\
+On the status page enter your [Guild Id](../getting-started/basics.md#copying-server-ids) in "LOOK UP YOUR SERVER" menu and then click on "Check"\
 The shard in which your guild is present will start glowing up \
 (in this case Shard 0 )
 

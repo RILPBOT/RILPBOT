@@ -18,7 +18,11 @@ Enabling it would allow one to copy Server IDs, User IDs, Channel IDs etc.
 
 ### Copying Server IDs
 
-![](../.gitbook/assets/server.gif)
+![Copying Server IDs](../.gitbook/assets/server.gif)
+
+### Copying Category IDs
+
+![Copying Category Ids](../.gitbook/assets/category.gif)
 
 ### Copying Channel IDs
 

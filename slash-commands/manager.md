@@ -54,7 +54,6 @@ Messages older than 14days cannot be deleted&#x20;
 | Command Name                            | Command Description |   |
 | --------------------------------------- | ------------------- | - |
 | `/role multiple <type> <action> <role>` |                     |   |
-| ``                                      |                     |   |
 
-*
+
 

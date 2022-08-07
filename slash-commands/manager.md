@@ -77,3 +77,19 @@ Arguments for `/role multiple` command
 Custom Commands can also be edited from [Dashboard](https://rilp-bot.tech).
 {% endhint %}
 
+{% hint style="info" %}
+The custom command can only be used with the default `r!` prefix at the moment.
+{% endhint %}
+
+### Role In Commands and Arguments&#x20;
+
+| Command Name                        | Command Description                                       |   |
+| ----------------------------------- | --------------------------------------------------------- | - |
+| `role in <action> <in role> <role>` | Gives or removes a role from users with a particular role |   |
+
+Arguments for `/role in` command
+
+| `Action : give \| remove` | To select whether to remove or give role to users with selected role   |   |
+| ------------------------- | ---------------------------------------------------------------------- | - |
+| `In_role`                 | The particular role to whose users you want to take actions on         |   |
+| `Role`                    | The role which you want to give or remove from those particular users. |   |

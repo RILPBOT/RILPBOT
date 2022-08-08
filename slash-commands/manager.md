@@ -49,6 +49,24 @@ description: This page will help you with all the Management Commands
 Messages older than 14days cannot be deleted&#x20;
 {% endhint %}
 
+### Custom Command (CC) Commands and Arguments
+
+| Command Name                                                                                 | Command Description                                                                                                                                       |   |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| `/cc add <command name> <command output> [dm response] [delete after execution]`             | Adds the custom command with the given command name, output and option to whether dm the user with the output, or delete the command text after using it. |   |
+| `/cc delete <command name>`                                                                  | Deletes the custom command with the given name.                                                                                                           |   |
+| `/cc list`                                                                                   | Lists all the custom commands with their output and settings in the server.                                                                               |   |
+| `/cc edit <command name> <command output> [dm response] [delete after execution]`            | Edits the custom command with the given command name, content and other settings.                                                                         |   |
+| <p><code>/cc toggle &#x3C;command name></code> <br><code>&#x3C;toggle : On | Off></code></p> | Toggles on or off the custom command with the given name.                                                                                                 |   |
+
+{% hint style="info" %}
+Custom Commands can also be edited from [Dashboard](https://rilp-bot.tech).
+{% endhint %}
+
+{% hint style="info" %}
+The custom command can only be used with the default `r!` prefix at the moment.
+{% endhint %}
+
 ### Role Manager Commands and Arguments
 
 | Command Name                            | Command Description                                          |   |
@@ -69,22 +87,3 @@ Arguments for `/role in` command
 | `In_role`                 | The particular role to whose users you want to take actions on         |   |
 | `Role`                    | The role which you want to give or remove from those particular users. |   |
 
-### Custom Command (CC) Commands and Arguments
-
-
-
-| Command Name                                                                                 | Command Description                                                                                                                                       |   |
-| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-| `/cc add <command name> <command output> [dm response] [delete after execution]`             | Adds the custom command with the given command name, output and option to whether dm the user with the output, or delete the command text after using it. |   |
-| `/cc delete <command name>`                                                                  | Deletes the custom command with the given name.                                                                                                           |   |
-| `/cc list`                                                                                   | Lists all the custom commands with their output and settings in the server.                                                                               |   |
-| `/cc edit <command name> <command output> [dm response] [delete after execution]`            | Edits the custom command with the given command name, content and other settings.                                                                         |   |
-| <p><code>/cc toggle &#x3C;command name></code> <br><code>&#x3C;toggle : On | Off></code></p> | Toggles on or off the custom command with the given name.                                                                                                 |   |
-
-{% hint style="info" %}
-Custom Commands can also be edited from [Dashboard](https://rilp-bot.tech).
-{% endhint %}
-
-{% hint style="info" %}
-The custom command can only be used with the default `r!` prefix at the moment.
-{% endhint %}

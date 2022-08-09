@@ -69,10 +69,12 @@ The custom command can only be used with the default `r!` prefix at the moment.
 
 ### Role Manager Commands and Arguments
 
-| Command Name                            | Command Description                                          |   |
-| --------------------------------------- | ------------------------------------------------------------ | - |
-| `/role multiple <type> <action> <role>` | Gives or removes the role according to the action specified. |   |
-| `role in <action> <in role> <role>`     | Gives or removes a role from users with a particular role    |   |
+| Command Name                            | Command Description                                                 |   |
+| --------------------------------------- | ------------------------------------------------------------------- | - |
+| `/role multiple <type> <action> <role>` | Gives or removes the role according to the action specified.        |   |
+| `role in <action> <in role> <role>`     | Gives or removes a role from users with a particular role           |   |
+| `/role status`                          | Checks the current process of `role in` and `role multiple` command |   |
+| `role cancel`                           | Cancels the role process                                            |   |
 
 Arguments for `/role multiple` command
 

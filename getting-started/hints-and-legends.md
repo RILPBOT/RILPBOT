@@ -10,7 +10,7 @@ This page will help you with those.
 * `[ ]` This Symbol means the arguments written inside it are optional arguments i.e. commands can be executed even without them.
 * `Option 1 | Option 2` This means the command has options inside it.
 * `Option 1 \ Option 2` This means at least one of the option needs to be used in order to run the command.
-* :star: Features with this emoji beside them means they are premium features.
+* ⭐ Features with this emoji beside them means they are premium features.
 
 Note : You do not need to include  `< >` or `[ ]` while running the commands.
 

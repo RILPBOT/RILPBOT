@@ -23,7 +23,7 @@
 * [Dashboard](website/dashboard/README.md)
   * [Announcements](website/dashboard/announcements.md)
   * [Auto-Moderation](website/dashboard/auto-moderation.md)
-  * [Auto Role](website/dashboard/auto-role.md)
+  * [Auto Roles](website/dashboard/auto-roles.md)
   * [Action Logs](website/dashboard/action-logs.md)
   * [Custom Commands](website/dashboard/custom-commands.md)
   * [Giveaways](website/dashboard/giveaways.md)

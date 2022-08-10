@@ -27,8 +27,10 @@ You can set upto 5 roles as Moderator Role and upto 50 with <mark style="color:y
 
 ### Auto Nickname
 
-Sets the nickname you want everyone in your server to have upon joining.\
-\
-There is tag available {username} which gets replaced by user's name.\
-For example setting `RILP ✘ {username}` upon joining with a username `DARK`\
-Will change user's nickname to `RILP ✘ DARK`
+Sets the nickname you want everyone in your server to have upon joining.
+
+![Auto Nickname](../../.gitbook/assets/nick.gif)
+
+{% hint style="info" %}
+There is tag available `{username}` which gets replaced by user's name and can be used as shown above
+{% endhint %}

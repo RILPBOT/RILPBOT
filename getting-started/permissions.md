@@ -29,6 +29,6 @@ Giving Bot administrator will directly grant it all the perms required in genera
 {% endhint %}
 
 {% hint style="danger" %}
-If you are setting up perms manually make sure to provide the bot perms in all those channels where <mark style="background-color:blue;">everyone</mark> role doesn't have it.\
-For example, the bot needs permissions to see all those channels where you want invites to get counted.
+If you are setting up permissions manually make sure to provide the bot with all the permissions in all those channels where <mark style="background-color:blue;">everyone</mark> role doesn't have it.\
+For example, the bot needs permissions to see all those channels where you want invites to get counted, so you need to give the **RILP BOT**'s role <mark style="color:green;">MANAGE\_CHANNEL</mark> permissions so that they can access the channel's invites.
 {% endhint %}

@@ -1,24 +1,24 @@
 ---
 description: >-
   RILP BOT also features a premium version which provides much more quality of
-  life features while supporting us to keep the bot fresh as ever.
+  life features while supporting us to keep the bot as fresh as ever.
 ---
 
 # 🌟 Premium
 
-### What perks and features do I get in the premium subscription ?
+### What perks and features do I get in the premium subscription?
 
 Along with the list below you even get a hoisted role in our [Support Server](https://rilp-bot.tech/support)
 
 ![Premium Features vs Free Version](.gitbook/assets/pre.png)
 
-### What is the price of premium subscription ?
+### What is the price of a premium subscription?
 
 ![Prices for Premium Subscription](.gitbook/assets/unknown.png)
 
-### What payment methods are available ?
+### What payment methods are available?
 
-Currently, all the prices are in Indian Rupees (INR) and we support only credit cards and debit cards directly through dashboard.\
+Currently, all the prices are in Indian Rupees (INR) and we support only credit cards and debit cards directly through the dashboard.\
 For other currencies or other payment methods contact us in the [Support Server](https://rilp-bot.tech/support).
 
 {% embed url="https://rilp-bot.tech/premium" %}

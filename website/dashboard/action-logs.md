@@ -6,20 +6,28 @@ description: This page will help you with Action Logs module on dashboard
 
 ### Moderation Log
 
-The selected channel would post all the moderation logs
+The bot will send the moderation log to the selected channel.
 
 ### Message Log
 
-The selected channel would post all the message related logs (message edited, deleted)
+The bot will send all the message related logs (message edited, deleted, and updated) to the selected channel.
 
 ### Channel Log
 
-The selected channel would post all the channel related logs (created, edited, deleted)
+The bot will send all the channel related logs (channel created, edited, and deleted) to the selected channel.
+
+### Member Join Log
+
+The bot will send a log when a user joins the server to the selected channel.
+
+### Member Leave Log
+
+The bot will send a log when a user leaves the server to the selected channel.
 
 ### Role Log
 
-The selected channel would post all the role related logs (created, edited, deleted)
+The bot will send all the role related logs (role created, edited, and deleted) to the selected channel.
 
 ### Member Event Log
 
-The selected channel would post all the member related logs (nickname changed etc)
+The bot will send all the member related logs (member nickname change, member role add, member role remove, etc.)

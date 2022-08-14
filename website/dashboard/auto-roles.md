@@ -6,7 +6,7 @@ description: This page will help you with Auto Role module on dashboard
 
 ### Auto Roles
 
-Set the roles you want Bot to give upon someone joining the server.
+Set the roles you want the bot to give to **users** upon someone joining the server.
 
 {% hint style="warning" %}
 You can set upto 3 roles while you can set unlimited in Premium

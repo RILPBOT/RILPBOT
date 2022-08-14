@@ -16,20 +16,20 @@ Note : You do not need to include  `< >` or `[ ]` while running the commands.
 
 ## Font Colors and Hints
 
-* [Orange](hints-and-legends.md#characters-and-symbols) this color shows that the text is hyperlink and can be clicked taking you to another website/page
+* The [orange](hints-and-legends.md#characters-and-symbols) color shows that the text is a hyperlink and can be clicked to get redirected to another website or page.
 
 {% hint style="info" %}
-This type of hints will provide more basic info on the topic
+This type of hint will provide more basic info on the topic
 {% endhint %}
 
 {% hint style="warning" %}
-This type of hints will tell you more about commands with premium features
+This type of hint will tell you more about commands with premium features
 {% endhint %}
 
 {% hint style="success" %}
-This type of hints will tell you about things you should know while using the command
+This type of hint will tell you about things you should know while using the command
 {% endhint %}
 
 {% hint style="danger" %}
-This type of hints will warn you about important features which can disturb your server if not used correctly
+This type of hint will warn you about essential features which can disturb your server if not used correctly
 {% endhint %}

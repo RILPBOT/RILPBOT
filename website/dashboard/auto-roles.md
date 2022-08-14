@@ -13,7 +13,7 @@ The roles given for auto role upon user join are given only to human accounts an
 {% endhint %}
 
 {% hint style="warning" %}
-You can set up to **3 roles** while you can set **unlimited** in Premium
+You can set up to **3 roles** while you can set **unlimited** with Premium Subscription.
 {% endhint %}
 
 ### Rule Acceptance&#x20;

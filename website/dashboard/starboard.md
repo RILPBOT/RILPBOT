@@ -6,7 +6,7 @@ description: This page will help you with the Starboard Module on Dashboard
 
 ### Star Count
 
-Number of reactions required to highlight a message in starboard channel.
+The number of reactions a message needs to get highlighted in the starboard channel.
 
 ### ⭐ Custom Emoji
 
@@ -14,13 +14,13 @@ Option to set the custom emoji which bot will accept as reactions instead of the
 
 ### ⭐ Embed Color
 
-Change the embed color of the starboard post that are sent in the starboard channel.
+Change the embed color of the starboard post that is sent in the starboard channel.
 
 ### Message Settings&#x20;
 
-* Allow NSFW Content : If unchecked bot will ignore all the reactions from NSFW channels.
-* Allow Self Starring : If unchecked bot will ignore reaction from the user who sent the message.
-* Show Jump Link : Bot will add a field with a jump link directly to the original message which was starred.
+* Allow NSFW Content: If unchecked bot will ignore all the reactions from NSFW channels.
+* Allow Self-Starring: If unchecked bot will ignore the reaction from the user who sent the message.
+* Show Jump Link: The bot will add a field with a jump link directly to the original message which was starred.
 
 ### Channel
 
@@ -28,5 +28,5 @@ The channel where the starred messages should be sent to get highlighted.
 
 ### Ignore Settings
 
-* Ignored Channels : All the channels selected in this module will be ignored by the bot.
-* Ignored Roles : All the users with the selected role will be ignored by the bot.
+* Ignored Channels: All the channels selected will be ignored by the bot.
+* Ignored Roles: All the users with the selected role will be ignored by the bot.

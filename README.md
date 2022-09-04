@@ -3,7 +3,6 @@
 [![Support](https://discordapp.com/api/guilds/741999360539099199/widget.png?style=shield)](https://discord.gg/q6yefKD) 
 [![Discord Bots](https://top.gg/api/widget/servers/718501137484873748.svg)](https://top.gg/bot/718501137484873748)
 [![RILP BOT Premium](https://img.shields.io/badge/RILP%20BOT%20Premium-Premium-%23f58442)](https://rilp-bot.tech/premium) 
-[![GitHub license](https://img.shields.io/github/license/RILP-DEVELOPMENT/RILPBOT.svg)](https://github.com/RILP-DEVELOPMENT/RILPBOT/blob/main/LICENSE)
 [![PrivacyPolicy](https://img.shields.io/badge/Privacy%20Policy--lightgrey.svg?style=social)](https://rilp-bot.tech/privacy)
 
 ### About **RILP BOT**

@@ -6,25 +6,4 @@ description: This page will guide you through all the Fun commands present in th
 
 ### Commands and Arguments
 
-| Command Name           | Command Description                                               |   |
-| ---------------------- | ----------------------------------------------------------------- | - |
-| `/cat`                 | Generates a random cat picture                                    |   |
-| `/dadjoke`             | Generates a random dad joke                                       |   |
-| `/dead [@user]`        | Creates a tombstone for the mentioned user or for yourself        |   |
-| `/dog`                 | Generates a random dog picture                                    |   |
-| `/eject [@user]`       | Generates a Among Us Eject Picture for yourself or mentioned user |   |
-| `/emergency <text>`    | Creates a among us emergency scene with the emergency message     |   |
-| `/gay [@user]`         | Creates a gay overlay for yourself or mentioned user              |   |
-| `/hug <@user>`         | Hugs the mentioned user                                           |   |
-| `/kiss [@user]`        | Kisses the mentioned user                                         |   |
-| `/meme [subreddit]`    | Generates a random meme or a meme from mentioned subreddit        |   |
-| `/panda`               | Generates a random panda picture                                  |   |
-| `/pat [@user]`         | Pats the mentioned user                                           |   |
-| `/rps duel <@user>`    | Challenges the mentioned user for a game of Rock Paper Scissors   |   |
-| `/rps single <choice>` | Starts a game of Rock Paper Scissors with the bot                 |   |
-| `/rate <user>`         | Rates the mentioned user                                          |   |
-| `/slap [@user]`        | Slaps the mentioned user                                          |   |
-| `/triggered [@user]`   | Creates a triggered overlay for yourself or mentioned user        |   |
-| `/wasted [@user]`      | Creates a wasted overlay for yourself or mentioned user           |   |
-| `/wink [@user]`        | Winks at the mentioned user                                       |   |
-| `/ytcomment [comment]` | Creates a You Tube comment overlay with the given comment         |   |
+<table><thead><tr><th>Command Name</th><th>Command Description</th><th data-hidden></th></tr></thead><tbody><tr><td><code>/cat</code></td><td>Generates a random cat picture</td><td></td></tr><tr><td><code>/dadjoke</code></td><td>Generates a random dad joke</td><td></td></tr><tr><td><code>/dead [@user]</code> </td><td>Creates a tombstone for the mentioned user or for yourself</td><td></td></tr><tr><td><code>/dog</code></td><td>Generates a random dog picture</td><td></td></tr><tr><td><code>/eject [@user]</code></td><td>Generates a Among Us Eject Picture for yourself or mentioned user</td><td></td></tr><tr><td><code>/emergency &#x3C;text></code></td><td>Creates a among us emergency scene with the emergency message</td><td></td></tr><tr><td><code>/gay [@user]</code></td><td>Creates a gay overlay for yourself or mentioned user</td><td></td></tr><tr><td><code>/hug &#x3C;@user></code></td><td>Hugs the mentioned user</td><td></td></tr><tr><td><code>/kiss [@user]</code></td><td>Kisses the mentioned user</td><td></td></tr><tr><td><code>/meme [subreddit]</code></td><td>Generates a random meme or a meme from mentioned subreddit</td><td></td></tr><tr><td><code>/panda</code></td><td>Generates a random panda picture</td><td></td></tr><tr><td><code>/pat [@user]</code></td><td>Pats the mentioned user</td><td></td></tr><tr><td><code>/rps duel &#x3C;@user></code></td><td>Challenges the mentioned user for a game of Rock Paper Scissors</td><td></td></tr><tr><td><code>/rps single &#x3C;choice></code></td><td>Starts a game of Rock Paper Scissors with the bot</td><td></td></tr><tr><td><code>/rate &#x3C;user></code></td><td>Rates the mentioned user</td><td></td></tr><tr><td><code>/slap [@user]</code> </td><td>Slaps the mentioned user</td><td></td></tr><tr><td><code>/triggered [@user]</code></td><td>Creates a triggered overlay for yourself or mentioned user</td><td></td></tr><tr><td><code>/wasted [@user]</code></td><td>Creates a wasted overlay for yourself or mentioned user</td><td></td></tr><tr><td><code>/wink [@user]</code></td><td>Winks at the mentioned user</td><td></td></tr><tr><td><code>/ytcomment [comment]</code></td><td>Creates a You Tube comment overlay with the given comment</td><td></td></tr></tbody></table>

@@ -8,21 +8,7 @@ description: >-
 
 [Click here](basics.md#giving-permissions) to check how to give permissions to a bot.
 
-| Permissions        | Features using it                                                                       |   |
-| ------------------ | --------------------------------------------------------------------------------------- | - |
-| `Add Reactions`    | Needed to add reactions for `giveaways` and `polls`                                     |   |
-| `Ban Members`      | For `ban` command and auto moderation                                                   |   |
-| `Embed Links`      | This is needed for embedding links in different commands like `leaderboard invites` etc |   |
-| `Kick Members`     | For `kick` command and auto moderation                                                  |   |
-| `Manage Channels`  | For features like `slowmode` and `lock/unlock` channels                                 |   |
-| `Manage Emojis`    | For adding emojis via `steal` command                                                   |   |
-| `Manage Messages`  | Needed for `giveaway` and `automoderation`                                              |   |
-| `Manage Nicknames` | For  `nickname` command, adding AFK in nicks, and for `de-hoist` in auto-moderation     |   |
-| `Manage Server`    | For fetching invites from Invites Tab in Server Settings                                |   |
-| `Manage Roles`     | For `adding/deleting` roles, mod commands and `auto role`                               |   |
-| `Manage Webhook`   | Bot uses webhook for [Action Logs](../website/dashboard/action-logs.md)                 |   |
-| `Moderate Members` | <p>Need for <code>mute</code> command and</p><p>auto moderation</p>                     |   |
-| `View Channels`    | Required for tracking invites                                                           |   |
+<table><thead><tr><th>Permissions</th><th>Features using it</th><th data-hidden></th></tr></thead><tbody><tr><td><code>Add Reactions</code></td><td>Needed to add reactions for <code>giveaways</code> and <code>polls</code></td><td></td></tr><tr><td><code>Ban Members</code></td><td>For <code>ban</code> command and auto moderation</td><td></td></tr><tr><td><code>Embed Links</code></td><td>This is needed for embedding links in different commands like <code>leaderboard invites</code> etc</td><td></td></tr><tr><td><code>Kick Members</code></td><td>For <code>kick</code> command and auto moderation</td><td></td></tr><tr><td><code>Manage Channels</code></td><td>For features like <code>slowmode</code> and <code>lock/unlock</code> channels</td><td></td></tr><tr><td><code>Manage Emojis</code></td><td>For adding emojis via <code>steal</code> command</td><td></td></tr><tr><td><code>Manage Messages</code></td><td>Needed for <code>giveaway</code> and <code>automoderation</code></td><td></td></tr><tr><td><code>Manage Nicknames</code></td><td>For  <code>nickname</code> command, adding AFK in nicks, and for <code>de-hoist</code> in auto-moderation</td><td></td></tr><tr><td><code>Manage Server</code></td><td>For fetching invites from Invites Tab in Server Settings</td><td></td></tr><tr><td><code>Manage Roles</code></td><td>For <code>adding/deleting</code> roles, mod commands and <code>auto role</code></td><td></td></tr><tr><td><code>Manage Webhook</code></td><td>Bot uses webhook for <a href="../website/dashboard/action-logs.md">Action Logs</a></td><td></td></tr><tr><td><code>Moderate Members</code></td><td><p>Need for <code>mute</code> command and</p><p>auto moderation</p></td><td></td></tr><tr><td><code>View Channels</code></td><td>Required for tracking invites</td><td></td></tr></tbody></table>
 
 {% hint style="success" %}
 Giving Bot administrator will directly grant it all the perms required in general as well as in a particular channel.
